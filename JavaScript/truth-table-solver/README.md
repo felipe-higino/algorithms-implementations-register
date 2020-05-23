@@ -9,6 +9,6 @@
 ## What i've learned
 
 * Node.Js Runtime
-* Deal with JavaScript *arrow function* notation
-* *Regular Expressions* to manipulate strings
-* The diference and utility between *Infix/ Prefix/ Postfix* notations
+* Deal with JavaScript **arrow function** notation
+* **Regular Expressions** to manipulate strings
+* The diference and utility between **Infix/ Prefix/ Postfix** notations

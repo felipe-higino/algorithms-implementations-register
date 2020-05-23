@@ -4,6 +4,6 @@
 * Some Mathematical algorithms implementations
 
 # Algorithms
-* [Dijkstra in Prolog](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/truth-table-solver)
+* [Dijkstra in Prolog](https://github.com/fhps1/algorithms-implementations-register/tree/master/Prolog/prolog-solving-dijkstra-graph)
 
 * [Truth Table in JS](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/truth-table-solver)
