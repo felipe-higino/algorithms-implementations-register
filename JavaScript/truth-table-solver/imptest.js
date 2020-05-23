@@ -1,4 +1,4 @@
-"use strict";
+//this is how i made a infix "implication"
 function imp(a,b) {
     return a<=b
 }
