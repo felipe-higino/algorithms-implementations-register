@@ -12,3 +12,11 @@
 * Deal with JavaScript **arrow function** notation
 * **Regular Expressions** to manipulate strings
 * The diference and utility between **Infix/ Prefix/ Postfix** notations
+
+## How to use
+Just type any formula inside this function, at the end of index.js file:
+```javascript
+// input any logic formula here
+console.log( formulaSolutions( "(p->(~p^r)) ^ (qv(p<->~r))" ) );
+```
+It returns an array with the formula solutions 🙂

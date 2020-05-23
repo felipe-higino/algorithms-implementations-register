@@ -13,3 +13,17 @@ Prolog was a really new cool experience for me, where i've learned concepts like
 * Logic and Functional paradigm
 * Logic engine and Horn Clausules
 * **Non-structured** programming
+
+## How to use
+* write some edges at the start of file
+** first 2 atoms are graph vertex
+** the third atom is the module of the edge
+```javascript
+ar(a,b,140).
+```
+*execute an query (SWI-Prolog)
+
+```javascript
+?- menorCaminhoEntreAeB(a, b, X)
+```
+it returns the minimum path between vertex a and b 🙂
