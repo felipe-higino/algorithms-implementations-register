@@ -7,3 +7,6 @@
 * [Dijkstra in Prolog](https://github.com/fhps1/algorithms-implementations-register/tree/master/Prolog/prolog-solving-dijkstra-graph)
 
 * [Truth Table in JS](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/truth-table-solver)
+
+# Tests and Learning
+* [Map, Filter, Reduce] (JavaScript\map-filter-reduce-imperative)
