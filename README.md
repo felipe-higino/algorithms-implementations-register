@@ -9,4 +9,4 @@
 * [Truth Table in JS](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/truth-table-solver)
 
 # Tests and Learning
-* [Map, Filter and Reduce](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/map-filter-reduce-imperative)
+* [Map, Filter and Reduce JS/TS](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/map-filter-reduce-imperative)
