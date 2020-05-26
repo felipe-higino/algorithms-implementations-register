@@ -13,4 +13,4 @@
 # Tests and Learning
 * [Map, Filter and Reduce JS/TS](JavaScript/map-filter-reduce-imperative)
 
-* [Callbacks, Promisses and Async JS](JavaScript\/earning-asynchronous-node)
+* [Callbacks, Promisses and Async JS](JavaScript/earning-asynchronous-node)
