@@ -4,11 +4,13 @@
 * Some Mathematical algorithms implementations
 
 # Algorithms
-* [Dijkstra in Prolog](https://github.com/fhps1/algorithms-implementations-register/tree/master/Prolog/prolog-solving-dijkstra-graph)
+* [Dijkstra in Prolog](Prolog\prolog-solving-dijkstra-graph)
 
-* [Truth Table in JS](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/truth-table-solver)
+* [Truth Table in JS](JavaScript\truth-table-solver)
+
+* [Fibonacci Tests in some langs](fibonacci-performance-tests)
 
 # Tests and Learning
-* [Map, Filter and Reduce JS/TS](https://github.com/fhps1/algorithms-implementations-register/tree/master/JavaScript/map-filter-reduce-imperative)
+* [Map, Filter and Reduce JS/TS](JavaScript\map-filter-reduce-imperative)
 
-* [Fibonacci Tests in some langs](https://github.com/fhps1/algorithms-implementations-register/tree/master/fibonacci-performance-tests)
+* [Callbacks, Promisses and Async JS](JavaScript\learning-asynchronous-node)
