@@ -4,13 +4,13 @@
 * Some Mathematical algorithms implementations
 
 # Algorithms
-* [Dijkstra in Prolog](Prolog\prolog-solving-dijkstra-graph)
+* [Dijkstra in Prolog](Prolog/prolog-solving-dijkstra-graph)
 
-* [Truth Table in JS](JavaScript\truth-table-solver)
+* [Truth Table in JS](JavaScript/truth-table-solver)
 
 * [Fibonacci Tests in some langs](fibonacci-performance-tests)
 
 # Tests and Learning
-* [Map, Filter and Reduce JS/TS](JavaScript\map-filter-reduce-imperative)
+* [Map, Filter and Reduce JS/TS](JavaScript/map-filter-reduce-imperative)
 
-* [Callbacks, Promisses and Async JS](JavaScript\learning-asynchronous-node)
+* [Callbacks, Promisses and Async JS](JavaScript\/earning-asynchronous-node)
