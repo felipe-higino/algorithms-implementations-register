@@ -7,3 +7,5 @@ fibo(N,R):-
     fibo(Naux2,R2),
     R is R1+R2,
     !.
+% query:
+% time(( fibo(40,X),fail;true )).
