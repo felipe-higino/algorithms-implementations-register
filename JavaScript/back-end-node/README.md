@@ -6,10 +6,11 @@
 * Node Express framework
 * Nodemon framework
 * MySQL syntax
+* Sequelize to use MySQL with node 
 
 ## MySQL command line
 * connect to MySQL ----- `mysql -h localhost -u root -p`
 * show all databases --- `SHOW DATABASES;`
 * show all tables ------ `SHOW TABLES;`
-* show table inside DB - `DESCRIBE tablename;`
+* show table format ---- `DESCRIBE tablename;`
 

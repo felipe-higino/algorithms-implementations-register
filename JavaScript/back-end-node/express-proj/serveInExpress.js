@@ -30,7 +30,7 @@ app.get("/pgpar/:param1/:param2", (req,res)=>{
 //localhost:8081/myhtml
 app.get("/myhtml",(req,res)=>{
     //sending an HTML FILE to be consumed by front-end
-    res.sendFile(__dirname+"/index.html")
+    res.sendFile(__dirname+"/view/index.html")
 })
 
 app.listen(8081)//must be the last line, starting server event
