@@ -6,7 +6,7 @@
 * Node Express framework
 * Nodemon framework
 * MySQL syntax
-* Sequelize to use MySQL with node 
+* Sequelize to use MySQL with node/JavaScript
 
 ## MySQL command line
 * connect to MySQL ----- `mysql -h localhost -u root -p`

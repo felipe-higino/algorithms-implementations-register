@@ -1,5 +1,5 @@
-const Sequelize = require('sequelize')
-const sequelize = new Sequelize.Sequelize('myfirstdb', 'root', "meusql", {
+const {Sequelize} = require('sequelize')
+const sequelize = new Sequelize('myfirstdb', 'root', "meusql", {
     host: 'localhost',
     dialect: 'mysql'
 })
@@ -8,26 +8,7 @@ sequelize.authenticate()
     .then(_=>console.log('connected!'))
     .catch(_=>console.log('error'))
 
-//models
-//game = {title, publisher, genre} 
-// Sequelize auto-generates id, createdAt and updatedAt
-const listofgames = sequelize.define('gamestable',{
-    title: {
-        type: Sequelize.STRING
-    },
-    publisher:{
-        type: Sequelize.STRING
-    },
-    genre:{
-        type: Sequelize.STRING
-    },
-    description:{
-        type: Sequelize.TEXT
-    }
-})
-listofgames.sync({force:true})
-
-
+module.exports = sequelize
 // //password protection
 // const readline = require('readline');
 // const rl = readline.createInterface({
