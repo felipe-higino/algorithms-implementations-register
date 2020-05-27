@@ -17,6 +17,7 @@
 |     Go     |             677,2 ms             |
 | JavaScript |             1196,2 ms            |
 |     C#     |             1254,8 ms            |
+|   Haskell  |              31676ms             |
 |   Prolog   |             37677 ms             |
 |   Python   |             56110 ms             |
 
