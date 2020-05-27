@@ -1,4 +1,4 @@
-# Prolog implementation of Dijkstra's Minimum Path algorithm
+# Back-end with Node.js
 ✍️📚 This program was made for studying purposes
 
 ## What i've learned
@@ -8,8 +8,8 @@
 * MySQL syntax
 
 ## MySQL command line
-* connect to MySQL     `mysql -h localhost -u root -p`
-* show all databases   `SHOW DATABASES;`
-* show all tables      `SHOW TABLES`
-* show table inside DB `DESCRIBE tablename;`
+* connect to MySQL ----- `mysql -h localhost -u root -p`
+* show all databases --- `SHOW DATABASES;`
+* show all tables ------ `SHOW TABLES;`
+* show table inside DB - `DESCRIBE tablename;`
 
