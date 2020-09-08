@@ -11,8 +11,15 @@
 * [Fibonacci Tests in some langs](fibonacci-performance-tests)
 
 # Tests and Learning
+
+* [TS-Jest and Observer Pattern](Typescript/ts-jest-action)
+
 * [Map, Filter and Reduce JS/TS](JavaScript/map-filter-reduce-imperative)
 
 * [Callbacks, Promisses and Async JS](JavaScript/learning-asynchronous-node)
 
 * [Back-end with node](JavaScript/back-end-node)
+
+* [C# LINQ Library](Csharp/Linq-queries)
+
+* [C# Anonymous objects](Csharp/Anonymous-objects)

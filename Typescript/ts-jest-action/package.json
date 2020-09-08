@@ -1,0 +1,23 @@
+{
+  "name": "testesjs",
+  "version": "1.0.0",
+  "main": "concept_testing.js",
+  "scripts": {
+    "test": "jest",
+    "run-index": "cd production/src && node index.js",
+    "start-live-transpile": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.13",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.3.0",
+    "typescript": "^4.0.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
