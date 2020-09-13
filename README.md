@@ -14,6 +14,8 @@
 
 * [TS-Jest and Observer Pattern](Typescript/ts-jest-action)
 
+* [Graph algorithms in functional TS](Typescript/graph-algorithms)
+
 * [Map, Filter and Reduce JS/TS](JavaScript/map-filter-reduce-imperative)
 
 * [Callbacks, Promisses and Async JS](JavaScript/learning-asynchronous-node)
