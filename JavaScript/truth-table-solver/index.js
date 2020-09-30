@@ -15,7 +15,7 @@ const allTrueFalseCombinations =
       
       let answer = []
       previousCombination.forEach(arr=>{
-        answer.push( [...arr, true], [...arr, false] )
+        answer = answer.concat([ [...arr, true], [...arr, false] ])
       })
 
       const i = iteration + 1;
