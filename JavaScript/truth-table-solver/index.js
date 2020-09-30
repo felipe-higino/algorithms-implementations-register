@@ -4,7 +4,7 @@ const allTrueFalseCombinations =
       return [];
 
     const bools = [true, false]
-    function recursion(iteration = 0, previousCombination = []){
+    return function recursion(iteration = 0, previousCombination = []){
       if(iteration == numberOfVariables)
         return previousCombination;
     
@@ -20,9 +20,7 @@ const allTrueFalseCombinations =
 
       const i = iteration + 1;
       return recursion(i, answer)
-    }
-
-    return recursion()
+    }()
   }
 
 const translateFormula =
